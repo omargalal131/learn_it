@@ -1,4 +1,4 @@
-# learn_it
+# Learn_it
 for learning how to use git and github
 
-## projects notes
+## Projects notes
